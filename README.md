@@ -1,0 +1,2 @@
+Desktop application to create a speech conversation between the two characters, David and Zira. <br><br> A file can be created and saved for the conversation. <br><br> 
+Why I created this? Well, I had to add a voiceover to my YouTube video, and the idea of creating my own application popped inside my head 😀
